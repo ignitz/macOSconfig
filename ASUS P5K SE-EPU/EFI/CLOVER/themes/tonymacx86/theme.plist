@@ -6,39 +6,36 @@
 	<string>adamsmasher</string>
 	<key>Description</key>
 	<string>tonymacx86.com theme</string>
-	<key>Origination</key>
-	<dict>
-		<key>DesignHeight</key>
-		<integer>1080</integer>
-		<key>DesignWidth</key>
-		<integer>1920</integer>
-	</dict>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
 		<dict>
-			<key>Path</key>
-			<string>background-black.png</string>
 			<key>Type</key>
-			<string>Crop</string>
+			<string>Black</string>
 		</dict>
 		<key>Badges</key>
 		<dict>
 			<key>Inline</key>
-			<true/>
-			<key>Show</key>
 			<false/>
-			<key>Swap</key>
-			<false/>
+			<key>OffsetX</key>
+			<integer>0</integer>
+			<key>OffsetY</key>
+			<integer>0</integer>
 			<key>Scale</key>
 			<integer>8</integer>
+			<key>Show</key>
+			<true/>
+			<key>Swap</key>
+			<false/>
 		</dict>
 		<key>Banner</key>
-		<string>logo-smaller.png</string>
+		<string>logo.png</string>
 		<key>Font</key>
 		<dict>
+			<key>CharWidth</key>
+			<integer>8</integer>
 			<key>Type</key>
-			<string>Gray</string>
+			<string>White</string>
 		</dict>
 		<key>Selection</key>
 		<dict>
@@ -53,6 +50,6 @@
 		</dict>
 	</dict>
 	<key>Year</key>
-	<string>2014</string>
+	<string>2016</string>
 </dict>
 </plist>
